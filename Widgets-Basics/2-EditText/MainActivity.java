@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main); //add the activity_main layout or call it
 
-        TextInput=(EditText)findViewById(R.id.TextInput); //define the connection between the object TextInput and the element in the XML
-        ViewTextInput=(TextView)findViewById(R.id.ViewTextInput); //define the connection between the object  ViewTextInput and the element in the XML
+        TextInput=findViewById(R.id.TextInput); //define the connection between the object TextInput and the element in the XML
+        ViewTextInput=findViewById(R.id.ViewTextInput); //define the connection between the object  ViewTextInput and the element in the XML
 
         TextInput.addTextChangedListener(new TextWatcher() { //When an object of this type is attached to an Editable, its methods will be called when the text is changed.
             //more info here: https://developer.android.com/reference/android/text/TextWatcher
