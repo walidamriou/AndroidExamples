@@ -1,5 +1,6 @@
 ### Content (Daily update)
-#### Widgets Basics
+#### Widgets Basics 
+<a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics">--Widgets Basics folder</a> </br>
 1- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/1-TextView">Text View</a> </br>
 2- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/2-EditText">Edit Text</a> </br>
 3- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/3-buttons">buttons</a> </br>
