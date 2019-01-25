@@ -9,4 +9,5 @@
 7- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/7-CheckBox">CheckBox</a> </br>
 8- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/8-RadioButton">RadioButton</a> </br>
 9- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/9-RatingBar">RatingBar</a> </br>
+10-<a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/10-SeekBar">SeekBar</a> </br>
 
