@@ -12,3 +12,5 @@
 9- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/9-RatingBar">RatingBar</a> </br>
 10-<a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/10-SeekBar">SeekBar</a> </br>
 11-<a href="https://github.com/walidamriou/AndroidExamples/tree/master/Widgets-Basics/11-AutoComplete">AutoComplete</a> </br>
+####  Sensors
+1- <a href="https://github.com/walidamriou/AndroidExamples/tree/master/Sensors/1-fingerprint">fingerprint</a> </br>
